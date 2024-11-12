@@ -1,0 +1,12 @@
+.caja-principal{
+    margin: 5rem;
+    padding: 5rem;
+}
+
+.float-right{
+    float: right;
+}
+
+.botones-footer{
+    justify-content: flex-end;
+}
